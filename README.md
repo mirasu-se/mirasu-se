@@ -20,4 +20,5 @@ Building cool and innovative apps
 
 📫 How to reach me...
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/milenkoraic/)](https://www.linkedin.com/in/milenkoraic/)
-Email: [milenko.raic@hotmail.com]
+<a href="mailto:milenko.raic@hotmail.com"><img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email"></a>
+
